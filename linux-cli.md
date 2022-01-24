@@ -8,6 +8,8 @@ title: "Linux Command Line Interface"
 marp: true
 ---
 
+![DragonForce Malaysia](https://i.imgur.com/tL95KMG.png)
+
 # Recap Previous Session
 
 ---

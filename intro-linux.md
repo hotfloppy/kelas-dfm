@@ -8,6 +8,8 @@ title: "Pengenalan kepada Linux"
 marp: true
 ---
 
+![DragonForce Malaysia](https://i.imgur.com/tL95KMG.png)
+
 # Linux
 ## Kereta 4x4 tu ke?
 
