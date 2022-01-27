@@ -10,6 +10,11 @@ marp: true
 
 ![DragonForce Malaysia](https://i.imgur.com/tL95KMG.png)
 
-[Intro to Linux](./intro-linux.html)
-<br />
-[Linux CLI](./linux-cli.html)
+[Bab 1:
+Intro to Linux](./intro-linux.html)
+
+[Bab 2:
+Linux CLI](./linux-cli.html)
+
+[Bab 3:
+Shell Scripting](./shell-script.html)
