@@ -10,7 +10,11 @@ marp: true
 
 ![DragonForce Malaysia](https://i.imgur.com/tL95KMG.png)
 
-# Linux
+# Pengenalan kepada Linux
+
+---
+
+# Apa itu Linux
 ## Kereta 4x4 tu ke?
 
 ---
@@ -19,7 +23,7 @@ marp: true
 
 ---
 
-# Sejarah Freax
+# Sistem Operasi Freax
 
 ---
 
@@ -57,6 +61,7 @@ https://github.com/torvalds/linux
 
 # Fakta:
 ## Linux ni untuk PC atau laptop sahaja.
+### Betul?
 
 ---
 
@@ -121,4 +126,13 @@ Boleh tengok kat sini untuk senarai distro yang ada:
 https://upload.wikimedia.org/wikipedia/commons/b/b5/Linux_Distribution_Timeline_21_10_2021.svg
 
 Banyak gila kan? :D
+
+---
+
+## Terminal vs Shell
+
+---
+
+- Terminal atau terminal emulator, medium yang kita guna untuk taip command
+- Shell pula adalah intepreter kepada command tadi
 
