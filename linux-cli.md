@@ -135,7 +135,7 @@ Tetapi tidak didalam Linux. Anda boleh mengemudi machine Linux anda tanpa sebara
 - cat
   - conCATenate
   - Kegunaan: Memaparkan 1 atau lebih file ke skrin (standard output)
-  - Contoh: `rm ~/archives/nota-lecture.txt`
+  - Contoh: `cat ~/archives/nota-lecture.txt`
 
 - grep
   - Global Regular Expression Print
