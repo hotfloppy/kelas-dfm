@@ -10,8 +10,8 @@ for file in ${filelist[@]}; do
   echo
   echo "Converting $file into HTML, PDF and PPTX.."
   filename=${file%.*}
-  marp --html "$file" --output ${filename}.html
-  marp --pdf "$file" --output ${filename}.pdf
-  marp --pptx "$file" --output ${filename}.pptx
+  marp --allow-local-files --html "$file" --output ${filename}.html
+  marp --allow-local-files --pdf "$file" --output ${filename}.pdf
+  marp --allow-local-files --pptx "$file" --output ${filename}.pptx
   echo "Conversion for $file is done."
 done
